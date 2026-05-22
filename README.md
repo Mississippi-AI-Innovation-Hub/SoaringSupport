@@ -1,4 +1,4 @@
-# MDA AI-Enabled IT Helpdesk Assistant 
+# SoaringSupport
 
 **A Proof of Concept (PoC) developed for the Mississippi AI Innovation Hub.**
 
